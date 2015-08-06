@@ -1,0 +1,18 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/2/njp.32101077772349/003.png"; bbox 0 0 1945 3101; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 731 1690 994 1731">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 731 1690 994 1731">
+     <span class='ocr_line' id='line_1_1' title="bbox 731 1690 994 1731; baseline -0.008 1"><span class='ocrx_word' id='word_1_1' title='bbox 731 1690 994 1731; x_wconf 55' lang='grc' dir='ltr'>ΠΕἨΜΕΕΕ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 572 1168 1132 1820">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 641 1552 1067 1731">
+     <span class='ocr_line' id='line_1_2' title="bbox 641 1552 1067 1600; baseline -0.014 0"><span class='ocrx_word' id='word_1_2' title='bbox 641 1552 1067 1600; x_wconf 52' lang='grc' dir='ltr'>ΡΗΙΝΕΕΤΟΝ⁷</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 663 1621 1044 1666; baseline -0.018 0"><span class='ocrx_word' id='word_1_3' title='bbox 663 1626 697 1666; x_wconf 85' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_4' title='bbox 711 1624 853 1665; x_wconf 84' lang='lat' dir='ltr'>NIVE</span> <span class='ocrx_word' id='word_1_5' title='bbox 868 1622 932 1662; x_wconf 85' lang='lat' dir='ltr'>RS</span> <span class='ocrx_word' id='word_1_6' title='bbox 947 1621 1044 1660; x_wconf 84' lang='lat' dir='ltr'>ITY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 731 1690 994 1731; baseline -0.011 0"><span class='ocrx_word' id='word_1_7' title='bbox 731 1690 994 1731; x_wconf 80' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
